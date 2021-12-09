@@ -1,4 +1,4 @@
 # Covid-Project
-![MainScreen](https://imgur.com/a/sUUrAAT)
+![MainScreen]([img]https://i.imgur.com/UcDMVaH.png[/img])
 
 Analyzing Covid data for trends and insight
